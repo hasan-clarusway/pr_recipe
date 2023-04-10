@@ -22,7 +22,7 @@ export const Card = styled(Flex)`
 
 export const Image = styled.img`
    height: 10rem;
-   border-radius: 10rem;
+   border-radius: 1rem;
 `;
 
 export const Button = styled.button`

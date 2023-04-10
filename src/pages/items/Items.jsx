@@ -29,7 +29,7 @@ class Items extends Component {
          <MainContainer>            
          <div>
             <Header>Welcome to our webpage!</Header>
-            <DateContainer> Today is: <h4>{this.state.date} </h4></DateContainer>
+            <DateContainer> Today's Date: <h4>{this.state.date} </h4></DateContainer>
             <TimeContainer>It's: <h4>{this.state.time}</h4></TimeContainer>
             
          </div>

@@ -10,7 +10,7 @@ export const Button = styled.button`
   flex-direction: column;
   justify-content: center;
   background-color: #e1f1dd;
-  padding: 50px;
+  padding: 30px;
   outline: none;
   height: 3rem;
   border: none;
